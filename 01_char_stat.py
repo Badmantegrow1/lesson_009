@@ -89,7 +89,6 @@ static = Static(file_name='python_snippets/voyna-i-mir.txt')
 static.open_file()
 static.sorted_tup()
 
-
 #  После выполнения первого этапа нужно сделать упорядочивание статистики
 #  - по частоте по возрастанию
 #  - по алфавиту по возрастанию
